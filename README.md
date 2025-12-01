@@ -1,4 +1,5 @@
-# PayPal Agent Toolkit
+Copy
+pip install paypal-agent-toolkit# PayPal Agent Toolkit
 
 The PayPal Agent Toolkit enables popular agent frameworks including OpenAI's Agent SDK, LangChain, Vercel's AI SDK, and Model Context Protocol (MCP) to integrate with PayPal APIs through function calling. It includes support for TypeScript and is built on top of PayPal APIs and the PayPal SDKs.
 
